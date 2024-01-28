@@ -1,0 +1,1 @@
+console.log("bye bye duniya bhaad me jaye duniya");
